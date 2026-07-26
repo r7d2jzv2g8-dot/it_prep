@@ -2,7 +2,7 @@
 
 A self-contained practice dashboard covering IT fundamentals, networking, operating systems, scripting, and security. Single HTML file — no build step, no dependencies beyond a browser.
 
-**[Open the dashboard](./practice_dashboard.html)** *(once hosted, replace this with your actual GitHub Pages URL, e.g. `https://yourusername.github.io/practice-dashboard/practice_dashboard.html`)*
+**[Open the dashboard]([./practice_dashboard.html](https://r7d2jzv2g8-dot.github.io/it_prep/))** 
 
 ---
 
